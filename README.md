@@ -14,12 +14,6 @@ Adobe Commerce Certified Expert | Magento 2 Developer | Headless Commerce Specia
   <a href="mailto:prateekvns62@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white">
   </a>
-  <a href="https://instagram.com/prateekvns62">
-    <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
-  </a>
-  <a href="https://t.me/prateek4655">
-    <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white">
-  </a>
 </p>
 
 ---
